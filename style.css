@@ -1,24 +1,25 @@
-	body{
+body {
 	background-color: rgba(0, 0, 0, 0.5);	
 	color: forestgreen;
 	font-family: magneto;
 }
 
-	h1 {
+h1 {
 	color: darkgreen;
 	margin: 50 auto;
 	margin-top: 35px;
 	text-shadow:0 0 25px rgba(0, 100, 0, 0.5);
 }
-	h2 {
+
+h2 {
 	color: darkgreen;
-	
 }
 
-	img{
+img{
 	width:130px
 }
-	div{
+
+div{
 	text-align: center;
 	background-color: white;
 	box-shadow: 0 0 25px rgb(0, 100, 0);
@@ -28,6 +29,7 @@
 	width: 70%;
 	margin:  20px auto;
 }
+
 ul{
 	list-style: none;
 	margin: auto;
